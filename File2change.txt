@@ -1,8 +1,9 @@
 #!/bin/bash -e
 
-1. 1st commit
+1. 1st commit:q
 2. 2nd commit
-3. 3rd commit 
+3. 3rd commit
+4. 4th commit
 ~
 ~
 ~
