@@ -1,6 +1,8 @@
 package HelloWorld;
 
 # Comment from Vlad
+# Comment from Vlad2 to pull request
+
 public class Main {
     public static void main(String[] args) throws InterruptedException {
         boolean flag = true;
